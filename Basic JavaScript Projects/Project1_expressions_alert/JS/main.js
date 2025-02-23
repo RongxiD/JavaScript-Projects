@@ -1,4 +1,4 @@
 var text = "Hello, World!", selfIntro = "I am Roxy", name = "Roxy";
 document.write(text);
 
-document.write(3 + 4);
+document.write(3 + 4); // calculate 3 + 4
