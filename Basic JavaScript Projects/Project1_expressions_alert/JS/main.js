@@ -1,4 +1,17 @@
-var text = "Hello, World!", selfIntro = "I am Roxy", name = "Roxy";
-document.write(text);
+//main.js
 
-document.write(3 + 4); // calculate 3 + 4
+//window.alert method
+window.alert("Hello, world!");
+
+//document.write method
+document.write("For the last time, hello, world!");
+
+//creating two variables
+var Sent1 = "This is the beginning of the string";
+var Sent2 = "and this is the end of the string";
+
+//displaying the variables using the document.write method
+document.write(Sent1 + Sent2);
+
+//an expression
+document.write(3 * 84);
