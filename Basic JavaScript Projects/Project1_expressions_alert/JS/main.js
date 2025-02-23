@@ -1,2 +1,2 @@
-var text = "Hello, World!";
-document.write(text + " Guess Who I am ~");
+var text = "Hello, World!", selfIntro = "I am Roxy", name = "Roxy";
+document.write(text);
